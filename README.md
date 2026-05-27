@@ -23,7 +23,7 @@
 
 ```javascript
 const developer = {
-  name:        "Nithish s",
+  name:        "Nithish S",
   role:        "Full Stack Developer MERN",
   location:    "Bengaluru, India 🇮🇳",
   education:   "BBA HONS / MBA — [Your College]",
