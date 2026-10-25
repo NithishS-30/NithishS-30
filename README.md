@@ -24,9 +24,9 @@
 ```javascript
 const developer = {
   name:        "Nithish S",
-  role:        "Full Stack Developer MERN",
+  role:        "Software Testing , Javafullstack",
   location:    "Bengaluru, India 🇮🇳",
-  education:   "BBA HONS / MBA — [Your College]",
+  education:   "BBA HONS / MCA — [Vijayam Science Arts and Degree College Autonomous ]",
   available:   true,
   lookingFor:  ["Internships", "Full Time Roles", "Freelance Projects"],
   hobbies:     ["Coding", "Open Source", "Gaming", "Coffee ☕"],
@@ -51,9 +51,8 @@ console.log("Let's build something amazing together! 🚀");
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
